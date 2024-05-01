@@ -315,7 +315,7 @@ app.get("/question/:id", (req, res) => {
 
 // Listining on Port
 
-const port = process.env.PORT || 3000;
+const port = 3000;
 
 app.listen(port, () => {
   console.log("Server is runnning on port " + port);
