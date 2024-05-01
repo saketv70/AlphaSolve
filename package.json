@@ -3,7 +3,7 @@
   "name": "searchengineapp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ejs",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
